@@ -1,0 +1,6 @@
+[submodule "list_vs_bst"]
+	path = list_vs_bst
+	url = https://github.com/andersonfernandes/list_vs_bst
+[submodule "huffman-coding"]
+	path = huffman-coding
+	url = https://github.com/andersonfernandes/huffman-coding
